@@ -1,6 +1,6 @@
 ## Unsatisfied Primal Fear 💀
 
-### I'm think a ...
+### I think a ...
 - 🧑‍💻 **Vehicle Threat Research Lab Red Team Worker of [AutoCrypt](https://autocrypt.co.kr/) in South Korea**
 - 🚩 **[Team. RubiyaLab](https://rubiyalab.team/) CTF Player**
 
